@@ -3,10 +3,10 @@
 # User can login with his/her credentials.
 ![](device-2020-07-16-231813.png)
 
-## The Food Menu.
+# The Food Menu.
 ![](device-2020-07-16-231930.png)
 
-## Order Summary
+# Order Summary
 ![](device-2020-07-16-232120.png)
 
 # All orders are saved in the database with date and time. 
