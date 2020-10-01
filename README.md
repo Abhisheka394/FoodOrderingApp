@@ -1,4 +1,4 @@
-# An android food ordering app using Kotlin , XML(for UI),php and Sql(for database).
+# An android food ordering app using Kotlin , XML(for UI),php and Sqlite(for database).
 
 # User can login with his/her credentials.
 ![](device-2020-07-16-231813.png)
