@@ -9,7 +9,7 @@
 # Order Summary
 ![](device-2020-07-16-232120.png)
 
-# All orders are saved in the database with date and time. 
+# All orders are saved in the database with the date and time. 
 ![](AllOrders.png)
 
 updated last on 01-10-2022
